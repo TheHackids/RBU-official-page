@@ -1,0 +1,32 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    background-color: #C9E265;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px 5px #000000;
+}
+.carrusel{
+    width: 500px;
+    height: 500px;
+}
+.titulo-noticias{
+    text-align: center;
+}
+#texto-centro{
+    text-align: center;
+}
+
+.imagen-centro{
+    display: flex;
+    justify-content: center;
+}
+.boton-canal{
+  display: flex;
+  justify-content: center;
+}
+.carrusel-responsivo{
+    width: 800px;
+}

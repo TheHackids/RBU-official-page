@@ -1,0 +1,27 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    background-color: #C9E265;
+}
+.titulo{
+    display: flex;
+    justify-content: center;
+    text-shadow: 2px 2px 5px #000000;
+}
+.titulo-talleres{
+    display: flex;
+    justify-content: start;
+    margin-left: 20px;
+}
+#texto-taller{
+    margin-left: 90px;
+    margin-right: 50px;
+}
+.video-taller{
+    display: flex;
+    justify-content: center;
+}
+#texto-cualquiera-central{
+    display: flex;
+    justify-content: center;
+}
